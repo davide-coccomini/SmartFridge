@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Evento">
+    <xs:complexType>
+      <xs:all>
+        <xs:element type="xs:string" name="tipoEvento" />
+        <xs:element type="xs:string" name="nomeApplicazione" />
+      	<xs:element type="xs:string" minOccurs="0" maxOccurs="1" name="nomeComponente"/>
+        <xs:element type="xs:string" name="IPClient" minOccurs="1" maxOccurs="1"/>
+        <xs:element type="xs:string" name="orario" />
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

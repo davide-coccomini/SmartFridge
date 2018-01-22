@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>AVVIO</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 21:18:01 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante inserimento</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 21:19:17 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante eliminazione</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 21:19:23 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante inserimento</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 21:19:37 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>MODIFICA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Campo quantita</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 21:19:42 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>MODIFICA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Campo quantita</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 21:50:44 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>MODIFICA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Campo quantita</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 21:50:47 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante eliminazione</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 21:52:32 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>AVVIO</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:05:56 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante inserimento</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:06:32 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante eliminazione</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:06:44 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>MODIFICA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Campo quantita</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:06:47 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>MODIFICA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Campo quantita</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:06:50 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>AVVIO</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:09:05 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CHIUSURA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:09:09 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>AVVIO</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:09:15 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>AVVIO</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:09:24 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CHIUSURA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>10/06/2017 alle 22:09:27 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>AVVIO</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:04:33 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante inserimento</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:04:42 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante eliminazione</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:04:45 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante inserimento</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:04:51 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante eliminazione</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:04:54 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante inserimento</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:04:59 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante inserimento</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:05:06 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante eliminazione</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:05:13 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante eliminazione</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:05:15 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CHIUSURA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 12:05:33 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>AVVIO</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 13:56:25 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante inserimento</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 13:57:14 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CLICK</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <nomeComponente>Pulsante eliminazione</nomeComponente>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 13:57:25 CEST</orario>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Evento>
+  <tipoEvento>CHIUSURA</tipoEvento>
+  <nomeApplicazione>SmartFridge</nomeApplicazione>
+  <IPClient>111.111.111.111</IPClient>
+  <orario>12/06/2017 alle 15:08:41 CEST</orario>
+</Evento>
+
