@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- configurazioni.xsd -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Configurazioni">
+    <xs:complexType>
+      <xs:all>
+        <xs:element type="xs:string" nillable="false" minOccurs="1" name="IPServerLogXML"/>
+        <xs:element type="xs:string" nillable="false" minOccurs="1" name="IPClientLogXML"/>
+        <xs:element type="xs:integer" nillable="false" minOccurs="1" name="PortaServerLogXML"/>
+        <xs:element type="xs:string" nillable="false" minOccurs="1" name="UtenteDB"/>
+        <xs:element type="xs:string" nillable="false" minOccurs="1" name="PasswordDB"/>
+        <xs:element type="xs:string" nillable="false" minOccurs="1" name="HostnameDB"/>
+        <xs:element type="xs:integer" nillable="false" minOccurs="1" name="PortaDB"/>    		
+      </xs:all>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configurazioni>
+                <IPServerLogXML>localhost</IPServerLogXML>
+                <IPClientLogXML>111.111.111.111</IPClientLogXML>
+		<PortaServerLogXML>8080</PortaServerLogXML>
+		<UtenteDB>root</UtenteDB>
+                <PasswordDB>ciaociao</PasswordDB>
+		<HostnameDB>localhost</HostnameDB>
+		<PortaDB>3306</PortaDB>		
+</Configurazioni>
