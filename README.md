@@ -1,6 +1,4 @@
 SMARTFRIDGE
-Progetto per il corso di Programmazione
-Davide Coccomini
 
 
 Documento di analisi
