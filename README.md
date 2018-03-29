@@ -73,6 +73,8 @@ Classe EventoXML
 •	Rappresenta un evento da salvare nelle log;
 Classe UnitaGrafico
 •	Rappresenta un dato del grafico;
+
+
 FRONTEND:
 Classe AvvioSmartFridge
 •	Contiene funzioni per l’avvio dell’applicazione e la costruzione dell’interfaccia;
@@ -98,29 +100,18 @@ Manuale utente
 
 1. Inserimento di un nuovo alimento:
 •	Inserire i dati relativi al nuovo alimento nel modulo nel riquadro;
- 
-
 •	Premere il pulsante inserisci, l’alimento sarà aggiunto al frigorifero e sarà visibile nella tabella sovrastante.
  
-Log evento:
  
 2. Rimozione di un alimento:
 •	Selezionare un alimento dalla griglia sovrastante;
- 
-
 •	Cliccare sul pulsante elimina.
- 
-Log evento:
+
  
 3. Modifica della quantità di un alimento:
 •	Cliccare due volte sul campo quantità di un elemento presente nel frigorifero:
-
- 
 •	Inserire la nuova quantità e premere invio:
- 
 
-Log evento:
- 
 
 
 
