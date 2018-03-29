@@ -53,6 +53,7 @@ La riga di log contiene l’indirizzo IP del client, la data-ora corrente, il no
 
 
 Documento di progetto
+
 BACKEND:
 Classe ServerLogEventoXML
 •	Lato server per il salvataggio delle log;
