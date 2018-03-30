@@ -79,14 +79,19 @@ Classe UnitaGrafico
 FRONTEND:
 Classe AvvioSmartFridge
 •	Contiene funzioni per l’avvio dell’applicazione e la costruzione dell’interfaccia;
+
 Classe GraficoAlimenti
 •	Contiene funzioni per la gestione del grafico a torta;
+
 Classe ParametriXML
 •	Ottiene i parametri di configurazione;
+
 Classe ParametriConfigurazione
 •	Contiene i parametri di configurazione necessari per il funzionamento dell’applicativo;
+
 Classe TabellaAlimenti
 •	Classe rappresentante l’oggetto tabella contenente tutti gli alimenti nel frigorifero;
+
 Classe CellaTabellaAlimenti
 •	Contiene le funzioni che supportano la modifica di un campo quantità;
 
