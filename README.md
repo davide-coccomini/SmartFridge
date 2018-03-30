@@ -56,43 +56,81 @@ Documento di progetto
 
 BACKEND:
 Classe ServerLogEventoXML
+
 •	Lato server per il salvataggio delle log;
+
+
 Classe ValidatoreXML
+
 •	 Valida una stringa xml;
+
 •	Carica oggetti partendo da xml;
+
+
 Classe GestoreDB
+
 •	Esegue tutte le query al Database;
+
 •	Gestisce il collegamento col Database;
+
+
 MIDDLEWARE:
+
 Classe Alimento
+
 •	Contiene le informazioni relative a un dato alimento;
+
+
 Classe GestoreCache
+
 •	Estrae ed aggiorna i dati del form sulla cache;
+
+
 Classe ClientLogEventoXML
+
 •	Lato client per il salvataggio delle log;
+
+
 Classe EventoXML
+
 •	Rappresenta un evento da salvare nelle log;
+
+
 Classe UnitaGrafico
+
 •	Rappresenta un dato del grafico;
 
 
+
 FRONTEND:
+
 Classe AvvioSmartFridge
+
 •	Contiene funzioni per l’avvio dell’applicazione e la costruzione dell’interfaccia;
 
+
 Classe GraficoAlimenti
+
 •	Contiene funzioni per la gestione del grafico a torta;
 
+
 Classe ParametriXML
+
 •	Ottiene i parametri di configurazione;
 
+
 Classe ParametriConfigurazione
+
 •	Contiene i parametri di configurazione necessari per il funzionamento dell’applicativo;
 
+
 Classe TabellaAlimenti
+
 •	Classe rappresentante l’oggetto tabella contenente tutti gli alimenti nel frigorifero;
 
+
 Classe CellaTabellaAlimenti
+
 •	Contiene le funzioni che supportano la modifica di un campo quantità;
 
 
